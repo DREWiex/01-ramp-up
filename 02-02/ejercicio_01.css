@@ -1,0 +1,64 @@
+h1 {
+    color: teal;
+}
+
+strong {
+    color: red;
+}
+
+span.destacado {
+    color: orange;
+}
+
+h2#subtitulo {
+    color: blue;
+}
+
+a {
+    color: red;
+}
+
+a em {
+    color: blue;
+}
+
+span[class="especial"] {
+    color: purple;
+}
+
+/* revisar */
+th, td {
+    border: 1px solid black;
+}
+
+caption {
+    color: blue;
+}
+
+th {
+    color: red;
+}
+
+th[class="especial"] {
+    color: orange;
+}
+
+td {
+    color: green;
+}
+
+td strong {
+    color: orange;
+}
+
+#adicional {
+    color: olive;
+}
+
+span[id="especial"] {
+    color: fuchsia;
+}
+
+div p a {
+    color: green;
+}
