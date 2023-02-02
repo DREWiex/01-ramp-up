@@ -26,9 +26,10 @@ span[class="especial"] {
     color: purple;
 }
 
-/* revisar */
-th, td {
+table, th, td {
     border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
 }
 
 caption {
