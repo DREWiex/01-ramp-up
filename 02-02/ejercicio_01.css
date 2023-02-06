@@ -1,3 +1,36 @@
+/*
+
+* {
+    font: 1em/1.3 Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: #555;
+}
+
+#primero p {
+    color: #336699;
+}
+
+#primero em {
+    background: #FFFFCC;
+    padding: .1em;
+}
+
+em.especial {
+    background: #FFCC99;
+    border: 1px solid #FF9900;
+    padding: .1em;
+}
+
+.normal span {
+    font-weight: bold;
+}
+
+*/
+
+/* COLORES */
+
 h1 {
     color: teal;
 }
@@ -10,7 +43,7 @@ span.destacado {
     color: orange;
 }
 
-h2#subtitulo {
+#subtitulo {
     color: blue;
 }
 
